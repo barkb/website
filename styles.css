@@ -220,6 +220,7 @@ a .contact {
 }
 footer {
     color: #f8f8f2;
+    text-align: center;
 }
 @media {
     body {
