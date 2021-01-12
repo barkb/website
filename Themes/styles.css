@@ -236,6 +236,12 @@ footer {
     header {
         background-color: #282a36;
    }
+    .article {
+        margin-top: 100px;
+        width: 80%;
+        margin-left: 10%;
+        text-align: left;
+    }
 }
 @media(max-width: 1000px) {
     .wrapper {
